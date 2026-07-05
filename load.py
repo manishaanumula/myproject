@@ -14,7 +14,7 @@ def load_data():
 
     # Snowflake Connection
     conn = snowflake.connector.connect(
-        user='HARINI',
+        user='MANISHA',
         password='YOUR_PASSWORD',
         account='ACHKARW-TR90715',
         warehouse='ETL_WH',
