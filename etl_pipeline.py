@@ -9,7 +9,7 @@ from scripts.validate import validate_data
 
 
 default_args = {
-    'owner': 'Harini',
+    'owner': 'Manisha',
     'start_date': datetime(2025, 1, 1),
     'retries': 1
 }
