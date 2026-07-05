@@ -1,5 +1,5 @@
 import pandas as pd
- GITHUB_CSV_URL="https://raw.githubusercontent.com/kothapallyharini19december-glitch/myproject/refs/heads/main/datasets/SampleSuperstore.csv"
+ GITHUB_CSV_URL="https://raw.githubusercontent.com/manishaanumula-glitch/myproject/refs/heads/main/datasets/SampleSuperstore.csv"
 
 def extract_data():
   """
